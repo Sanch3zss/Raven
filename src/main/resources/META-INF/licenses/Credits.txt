@@ -1,0 +1,33 @@
+## Credits & Third-Party Code
+
+This project incorporates code, assets, and concepts from the following creators and projects:
+
+* **HoldMyItems**:
+  * *Licensed under All Rights Reserved (ARR).* Crediting the original team behind the mod:
+    * **Thesapling** — Lead developer / coder
+    * **Cubert1** — Project / Discord manager
+    * **Cyberia** — Texture artist
+    * **Radiati0nal** — Graphic designer
+    * **_Hellay** — Chillest dude i know
+
+* **AlphaMap**:
+  * **Zako** — Island and dungeon map retrieval logic
+
+* **Fast Items**:
+  * Released under the **CC0 1.0 Universal (Public Domain Dedication)** license. Special thanks to the original authors for making their work freely available.
+
+* **Fowl Play** (Copyright (c) 2025 **aqariio**):
+  * **Source**: [GitHub](https://github.com/aqariio/Fowl-Play), [Modrinth](https://modrinth.com/mod/fowlplay)
+  * **License**: MIT License
+  * Raven, crow, hawk, macaw and penguin models, animations, textures and sounds used for pets
+
+* **Counter-Strike 2** (Copyright (c) **Valve Corporation**):
+  * **Source**: [Counter-Strike 2](https://www.counter-strike.net/)
+  * **License**: Not covered by Raven's MIT License. All rights reserved by Valve Corporation.
+  * Knife models, glove models, agent models, their animations, textures and finishes (skins)
+  * Some finishes were created by Steam Workshop artists; rights belong to Valve and the respective creators
+  * Counter-Strike, Counter-Strike 2 and Valve are trademarks of Valve Corporation. Raven is not affiliated with, endorsed or sponsored by Valve Corporation. These assets will be removed upon request from the rights holder.
+
+* **FlyBrain** (Copyright (c) 2026 **PTBR**):
+  * **Source Code**: Licensed under the **MIT License**
+  * **Connectome Asset** (`assets/flybrain/brains/malecns_flight.fbrain`): Derived from MaleCNS v1.0 and licensed under **CC-BY 4.0**

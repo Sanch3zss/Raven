@@ -1,0 +1,510 @@
+{
+ "ctm_diver_varianta": {
+  "name": "Капитан Давида «Окуляры» Фернандес | Боевые пловцы SEAL",
+  "team": "ct",
+  "hands": "86111936db1d.mesh",
+  "arm": "bare_arm_113",
+  "sleeves": "06baa2840d56.mesh",
+  "body": "body_d990daae37d8.mesh"
+ },
+ "ctm_diver_variantb": {
+  "name": "Капитан Фрэнк «Мокрые носки» Бару | Боевые пловцы SEAL",
+  "team": "ct",
+  "hands": "86111936db1d.mesh",
+  "arm": "bare_arm_113",
+  "sleeves": "06baa2840d56.mesh",
+  "body": "body_944a4d8bf945.mesh"
+ },
+ "ctm_diver_variantc": {
+  "name": "Лейтенант Рекс Крайки | Боевые пловцы SEAL",
+  "team": "ct",
+  "hands": "86111936db1d.mesh",
+  "arm": "bare_arm_113",
+  "body": "body_bd849b52d047.mesh"
+ },
+ "ctm_fbi_variantb": {
+  "name": "Особый агент Ава | ФБР",
+  "team": "ct",
+  "hands": "43f4d294b761.mesh",
+  "arm": "bare_arm_113",
+  "sleeves": "d88953e1c0c4.mesh",
+  "body": "body_88db8ded17d2.mesh"
+ },
+ "ctm_fbi_variantf": {
+  "name": "Оперативник | ФБР: SWAT",
+  "team": "ct",
+  "hands": "43f4d294b761.mesh",
+  "arm": "bare_arm_113",
+  "sleeves": "3baa15e9e522.mesh",
+  "body": "body_2468a6faf631.mesh"
+ },
+ "ctm_fbi_variantg": {
+  "name": "Маркус Делроу | ФБР: антитеррор",
+  "team": "ct",
+  "hands": "43f4d294b761.mesh",
+  "arm": "bare_arm_78",
+  "sleeves": "b077d2667640.mesh",
+  "body": "body_acc3599fbf28.mesh"
+ },
+ "ctm_fbi_varianth": {
+  "name": "Майкл Сайферс | ФБР: снайпер",
+  "team": "ct",
+  "hands": "43f4d294b761.mesh",
+  "arm": "bare_arm_113",
+  "sleeves": "14dd63bb721c.mesh",
+  "body": "body_17ef3d716a5b.mesh"
+ },
+ "ctm_gendarmerie_varianta": {
+  "name": "Второй лейтенант медслужбы | Национальная жандармерия",
+  "team": "ct",
+  "hands": "c829b56ddf95.mesh",
+  "arm": "bare_arm_133",
+  "sleeves": "a5761fa9e0cc.mesh",
+  "body": "body_db28902fd3f8.mesh"
+ },
+ "ctm_gendarmerie_variantb": {
+  "name": "Капитан химзащиты | Национальная жандармерия",
+  "team": "ct",
+  "hands": "c829b56ddf95.mesh",
+  "arm": "bare_arm_133",
+  "sleeves": "a5761fa9e0cc.mesh",
+  "body": "body_73dc53c147a6.mesh"
+ },
+ "ctm_gendarmerie_variantc": {
+  "name": "Коммандант Рушар | Национальная жандармерия",
+  "team": "ct",
+  "hands": "c829b56ddf95.mesh",
+  "arm": "bare_arm_113",
+  "sleeves": "a5761fa9e0cc.mesh",
+  "body": "body_9b3d7be839e8.mesh"
+ },
+ "ctm_gendarmerie_variantd": {
+  "name": "Кадет | Национальная жандармерия",
+  "team": "ct",
+  "hands": "c829b56ddf95.mesh",
+  "arm": "bare_arm_113",
+  "sleeves": "a5761fa9e0cc.mesh",
+  "body": "body_7eedb7a2e27f.mesh"
+ },
+ "ctm_gendarmerie_variante": {
+  "name": "Офицер Жак Белтрам | Национальная жандармерия",
+  "team": "ct",
+  "hands": "c829b56ddf95.mesh",
+  "arm": "bare_arm_133",
+  "sleeves": "a5761fa9e0cc.mesh",
+  "body": "body_62fb13f75742.mesh"
+ },
+ "ctm_sas": {
+  "name": "Стандартный спецназ",
+  "team": "ct",
+  "hands": "3132f9e53d2e.mesh",
+  "arm": "bare_arm_133",
+  "sleeves": "4340609ae459.mesh",
+  "body": "body_75b2ec55e9aa.mesh"
+ },
+ "ctm_sas_variantf": {
+  "name": "Офицер отряда B | SAS",
+  "team": "ct",
+  "hands": "3132f9e53d2e.mesh",
+  "arm": "bare_arm_55",
+  "sleeves": "fce2c2bd7033.mesh",
+  "body": "body_8b68a77a4875.mesh"
+ },
+ "ctm_sas_variantg": {
+  "name": "Офицер отряда D | NZSAS",
+  "team": "ct",
+  "hands": "3132f9e53d2e.mesh",
+  "arm": "bare_arm_133",
+  "sleeves": "5239aeb778bc.mesh",
+  "body": "body_0eb5da1b58dc.mesh"
+ },
+ "ctm_st6_variante": {
+  "name": "Солдат SEAL Team 6 | NSWC SEAL",
+  "team": "ct",
+  "hands": "f92bd1b575ae.mesh",
+  "arm": "bare_arm_133",
+  "sleeves": "52a78a554ae8.mesh",
+  "body": "body_04bea5cb8ef5.mesh"
+ },
+ "ctm_st6_variantg": {
+  "name": "Бакшот | NSWC SEAL",
+  "team": "ct",
+  "hands": "f92bd1b575ae.mesh",
+  "arm": "bare_arm_107",
+  "sleeves": "abcc3885f2a1.mesh",
+  "body": "body_ea8c204bb1c3.mesh"
+ },
+ "ctm_st6_varianti": {
+  "name": "Капитан 3-го ранга Риксоу | NSWC SEAL",
+  "team": "ct",
+  "hands": "f92bd1b575ae.mesh",
+  "arm": "bare_arm_135",
+  "body": "body_753422bbb8a1.mesh"
+ },
+ "ctm_st6_variantj": {
+  "name": "«Черничный» Бакшот | NSWC SEAL",
+  "team": "ct",
+  "hands": "f92bd1b575ae.mesh",
+  "arm": "bare_arm_107",
+  "sleeves": "8956c0b8bb42.mesh",
+  "body": "body_03b809a97950.mesh"
+ },
+ "ctm_st6_variantk": {
+  "name": "Третья рота коммандо | KSK",
+  "team": "ct",
+  "hands": "f92bd1b575ae.mesh",
+  "arm": "bare_arm_133",
+  "sleeves": "8ef88e4b91df.mesh",
+  "body": "body_4f68d6162409.mesh"
+ },
+ "ctm_st6_variantl": {
+  "name": "«Дважды» Маккой | Кавалерия TACP",
+  "team": "ct",
+  "hands": "f92bd1b575ae.mesh",
+  "arm": "bare_arm_135",
+  "sleeves": "49523dcc3785.mesh",
+  "body": "body_fd2c1a637b85.mesh"
+ },
+ "ctm_st6_variantm": {
+  "name": "«Дважды» Маккой | USAF TACP",
+  "team": "ct",
+  "hands": "f92bd1b575ae.mesh",
+  "arm": "bare_arm_135",
+  "sleeves": "cdece2ec1584.mesh",
+  "body": "body_131e0d6d597c.mesh"
+ },
+ "ctm_st6_variantn": {
+  "name": "Старший лейтенант | Первый батальон Бразилии",
+  "team": "ct",
+  "hands": "f92bd1b575ae.mesh",
+  "arm": "bare_arm_133",
+  "sleeves": "0e7c55ad85b0.mesh",
+  "body": "body_3cf87137af4d.mesh"
+ },
+ "ctm_swat_variante": {
+  "name": "Коммандер Мэй «Льдина» Джемисон | SWAT",
+  "team": "ct",
+  "hands": "40133f2a9cd3.mesh",
+  "arm": "bare_arm_107",
+  "sleeves": "760f49d3dc20.mesh",
+  "body": "body_0f1af1f2194b.mesh"
+ },
+ "ctm_swat_variantf": {
+  "name": "Старший лейтенант Фарлоу | SWAT",
+  "team": "ct",
+  "hands": "40133f2a9cd3.mesh",
+  "arm": "bare_arm_113",
+  "sleeves": "5f5ec4fa2e38.mesh",
+  "body": "body_c2ccc6957546.mesh"
+ },
+ "ctm_swat_variantg": {
+  "name": "Джон «Ван Лечитт» Каск | SWAT",
+  "team": "ct",
+  "hands": "40133f2a9cd3.mesh",
+  "arm": "bare_arm_103",
+  "sleeves": "8b828d0bcfcd.mesh",
+  "body": "body_5d8fe2101f94.mesh"
+ },
+ "ctm_swat_varianth": {
+  "name": "Специалист по биозащите | SWAT",
+  "team": "ct",
+  "hands": "40133f2a9cd3.mesh",
+  "arm": "bare_arm_133",
+  "sleeves": "448372bae453.mesh",
+  "body": "body_fa194b868632.mesh"
+ },
+ "ctm_swat_varianti": {
+  "name": "Сержант Бомбсон | SWAT",
+  "team": "ct",
+  "hands": "40133f2a9cd3.mesh",
+  "arm": "bare_arm_107",
+  "sleeves": "1509e8b750fe.mesh",
+  "body": "body_640c35d90779.mesh"
+ },
+ "ctm_swat_variantj": {
+  "name": "Специалист по химзащите | SWAT",
+  "team": "ct",
+  "hands": "40133f2a9cd3.mesh",
+  "arm": "bare_arm_133",
+  "sleeves": "722f84cfb1b6.mesh",
+  "body": "body_03308c3b5098.mesh"
+ },
+ "ctm_swat_variantk": {
+  "name": "Лейтенант «Лесник» Фарлоу | SWAT",
+  "team": "ct",
+  "hands": "40133f2a9cd3.mesh",
+  "arm": "bare_arm_113",
+  "sleeves": "1b691211e12c.mesh",
+  "body": "body_a31611a470d5.mesh"
+ },
+ "tm_balkan_variantf": {
+  "name": "Драгомир | Сабля",
+  "team": "t",
+  "hands": "8dfd947405e1.mesh",
+  "arm": "bare_arm_133",
+  "sleeves": "33719059da42.mesh",
+  "body": "body_81988fb855ae.mesh"
+ },
+ "tm_balkan_variantg": {
+  "name": "Резан Готовый | Сабля",
+  "team": "t",
+  "hands": "8dfd947405e1.mesh",
+  "arm": "bare_arm_113",
+  "sleeves": "42eb41be42d2.mesh",
+  "body": "body_399ed3f63aa2.mesh"
+ },
+ "tm_balkan_varianth": {
+  "name": "«Доктор» Романов | Сабля",
+  "team": "t",
+  "hands": "8dfd947405e1.mesh",
+  "arm": "bare_arm_135",
+  "sleeves": "cfa33fde88fb.mesh",
+  "body": "body_84fecc331065.mesh"
+ },
+ "tm_balkan_varianti": {
+  "name": "Максимус | Сабля",
+  "team": "t",
+  "hands": "8dfd947405e1.mesh",
+  "arm": "bare_arm_66",
+  "sleeves": "33719059da42.mesh",
+  "body": "body_61f6070f5b4d.mesh"
+ },
+ "tm_balkan_variantj": {
+  "name": "Черноволк | Сабля",
+  "team": "t",
+  "hands": "8dfd947405e1.mesh",
+  "arm": "bare_arm_133",
+  "sleeves": "7e554643edf9.mesh",
+  "body": "body_4a955ed32ac2.mesh"
+ },
+ "tm_balkan_variantk": {
+  "name": "Резан Красный | Сабля",
+  "team": "t",
+  "hands": "8dfd947405e1.mesh",
+  "arm": "bare_arm_113",
+  "sleeves": "5b01703195cd.mesh",
+  "body": "body_ca331d71a18f.mesh"
+ },
+ "tm_balkan_variantl": {
+  "name": "Драгомир | Пехота «Сабли»",
+  "team": "t",
+  "hands": "8dfd947405e1.mesh",
+  "arm": "bare_arm_133",
+  "sleeves": "78c9d8387f69.mesh",
+  "body": "body_1a5887a7bf7d.mesh"
+ },
+ "tm_jungle_raider_varianta": {
+  "name": "Элитный охотник Солман | Партизаны",
+  "team": "t",
+  "hands": "74639d103cff.mesh",
+  "arm": "bare_arm_44",
+  "sleeves": "135b6ff43957.mesh",
+  "body": "body_833108c26101.mesh"
+ },
+ "tm_jungle_raider_variantb": {
+  "name": "Крэссуотер Забытый | Партизаны",
+  "team": "t",
+  "hands": "fa83f2024f96.mesh",
+  "arm": "bare_arm_107",
+  "body": "body_4182350e3101.mesh"
+ },
+ "tm_jungle_raider_variantb2": {
+  "name": "Крэссуотер «Поджарый» | Партизаны",
+  "team": "t",
+  "hands": "fa83f2024f96.mesh",
+  "arm": "bare_arm_107",
+  "body": "body_66d637bab5ad.mesh"
+ },
+ "tm_jungle_raider_variantc": {
+  "name": "Переросток Арно | Партизаны",
+  "team": "t",
+  "hands": "fa83f2024f96.mesh",
+  "arm": "bare_arm_125",
+  "body": "body_0b1423fae607.mesh"
+ },
+ "tm_jungle_raider_variantd": {
+  "name": "Полковник Мангос Дабиси | Партизаны",
+  "team": "t",
+  "hands": "fa83f2024f96.mesh",
+  "arm": "bare_arm_55",
+  "body": "body_0bdbd5987e3d.mesh"
+ },
+ "tm_jungle_raider_variante": {
+  "name": "Вайпа, сестра революции | Партизаны",
+  "team": "t",
+  "hands": "fa83f2024f96.mesh",
+  "arm": "bare_arm_jngl_vare",
+  "body": "body_91a52d0167c5.mesh"
+ },
+ "tm_jungle_raider_variantf": {
+  "name": "Охотник-агрессор | Партизаны",
+  "team": "t",
+  "hands": "fa83f2024f96.mesh",
+  "arm": "bare_arm_107",
+  "body": "body_136815e6fea9.mesh"
+ },
+ "tm_jungle_raider_variantf2": {
+  "name": "Охотник | Партизаны",
+  "team": "t",
+  "hands": "fa83f2024f96.mesh",
+  "arm": "bare_arm_107",
+  "body": "body_5fe3ff100869.mesh"
+ },
+ "tm_leet_variantf": {
+  "name": "Элитный мистер Мохлик | Элитный отряд",
+  "team": "t",
+  "hands": "c6401dbf649b.mesh",
+  "arm": "bare_arm_133",
+  "sleeves": "f9171fa66573.mesh",
+  "body": "body_0832c2c566d9.mesh"
+ },
+ "tm_leet_variantg": {
+  "name": "Диверсант | Элитный отряд",
+  "team": "t",
+  "hands": "c6401dbf649b.mesh",
+  "arm": "bare_arm_133",
+  "sleeves": "3d9db17f902a.mesh",
+  "body": "body_3bc666920575.mesh"
+ },
+ "tm_leet_varianth": {
+  "name": "Осирис | Элитный отряд",
+  "team": "t",
+  "hands": "c6401dbf649b.mesh",
+  "arm": "bare_arm_55",
+  "sleeves": "7c81be561a81.mesh",
+  "body": "body_29eb98f98e27.mesh"
+ },
+ "tm_leet_varianti": {
+  "name": "Профессор Шахмат | Элитный отряд",
+  "team": "t",
+  "hands": "ac4ba18e137b.mesh",
+  "arm": "bare_arm_133",
+  "body": "body_eb5253937e2d.mesh"
+ },
+ "tm_leet_variantj": {
+  "name": "Тропический диверсант | Элитный отряд",
+  "team": "t",
+  "hands": "c6401dbf649b.mesh",
+  "arm": "bare_arm_133",
+  "sleeves": "024d31ce0ceb.mesh",
+  "body": "body_d17db48c6cc6.mesh"
+ },
+ "tm_phoenix": {
+  "name": "Стандартный террорист",
+  "team": "t",
+  "hands": "1f986f3fc1c5.mesh",
+  "arm": "bare_arm_133",
+  "sleeves": "9b781cf06778.mesh",
+  "body": "body_32e705b7cdcc.mesh"
+ },
+ "tm_phoenix_variantf": {
+  "name": "Головорез | Феникс",
+  "team": "t",
+  "hands": "1f986f3fc1c5.mesh",
+  "arm": "bare_arm_133",
+  "sleeves": "c095d6fac66b.mesh",
+  "body": "body_8915734bbb8c.mesh"
+ },
+ "tm_phoenix_variantg": {
+  "name": "Мясник | Феникс",
+  "team": "t",
+  "hands": "1f986f3fc1c5.mesh",
+  "arm": "bare_arm_103",
+  "sleeves": "9aeee86ae8d3.mesh",
+  "body": "body_0598e19c739f.mesh"
+ },
+ "tm_phoenix_varianth": {
+  "name": "Солдат | Феникс",
+  "team": "t",
+  "hands": "1f986f3fc1c5.mesh",
+  "arm": "bare_arm_103",
+  "sleeves": "a802383a3fe3.mesh",
+  "body": "body_3b8775401aad.mesh"
+ },
+ "tm_phoenix_varianti": {
+  "name": "Уличный солдат | Феникс",
+  "team": "t",
+  "hands": "1f986f3fc1c5.mesh",
+  "arm": "bare_arm_103",
+  "sleeves": "8b465283b80c.mesh",
+  "body": "body_37d4a3f006b8.mesh"
+ },
+ "tm_professional_varf": {
+  "name": "Сэр «Чёртов Майами» Дэррил | Профессионалы",
+  "team": "t",
+  "hands": "a88312dce674.mesh",
+  "arm": "bare_arm_pro_varf",
+  "sleeves": "eda6b36251b7.mesh",
+  "body": "body_6e29614d7202.mesh"
+ },
+ "tm_professional_varf1": {
+  "name": "Сэр «Чёртов тихоня» Дэррил | Профессионалы",
+  "team": "t",
+  "hands": "a88312dce674.mesh",
+  "arm": "bare_arm_pro_varf",
+  "sleeves": "5c355e32b230.mesh",
+  "body": "body_962d341473d4.mesh"
+ },
+ "tm_professional_varf2": {
+  "name": "Сэр «Чёртов череп» Дэррил | Профессионалы",
+  "team": "t",
+  "hands": "a88312dce674.mesh",
+  "arm": "bare_arm_pro_varf",
+  "sleeves": "eda6b36251b7.mesh",
+  "body": "body_a777a0932047.mesh"
+ },
+ "tm_professional_varf3": {
+  "name": "Сэр «Чёртова знать» Дэррил | Профессионалы",
+  "team": "t",
+  "hands": "a88312dce674.mesh",
+  "arm": "bare_arm_pro_varf",
+  "sleeves": "eda6b36251b7.mesh",
+  "body": "body_c2303f7cc0d7.mesh"
+ },
+ "tm_professional_varf4": {
+  "name": "Сэр «Чёртов болтун» Дэррил | Профессионалы",
+  "team": "t",
+  "hands": "a88312dce674.mesh",
+  "arm": "bare_arm_pro_varf",
+  "sleeves": "610cd15e877a.mesh",
+  "body": "body_5a89f8500594.mesh"
+ },
+ "tm_professional_varf5": {
+  "name": "Сэр «Чёртовы ремни» Дэррил | Профессионалы",
+  "team": "t",
+  "hands": "a88312dce674.mesh",
+  "arm": "bare_arm_pro_varf",
+  "sleeves": "eda6b36251b7.mesh",
+  "body": "body_d3f4fdc56323.mesh"
+ },
+ "tm_professional_varg": {
+  "name": "Взломщица Вольцманн | Профессионалы",
+  "team": "t",
+  "hands": "0053d9ec307e.mesh",
+  "arm": "bare_arm_113",
+  "body": "body_0f5c71dd52de.mesh"
+ },
+ "tm_professional_varh": {
+  "name": "Крошка Кев | Профессионалы",
+  "team": "t",
+  "hands": "0053d9ec307e.mesh",
+  "arm": "bare_arm_133",
+  "body": "body_821ede147f09.mesh"
+ },
+ "tm_professional_vari": {
+  "name": "Номер К | Профессионалы",
+  "team": "t",
+  "hands": "a88312dce674.mesh",
+  "arm": "bare_arm_133",
+  "sleeves": "d4c9aee3ff55.mesh",
+  "body": "body_588cb9beadc3.mesh"
+ },
+ "tm_professional_varj": {
+  "name": "Беглянка Салли | Профессионалы",
+  "team": "t",
+  "hands": "a88312dce674.mesh",
+  "arm": "bare_arm_133",
+  "sleeves": "d4c9aee3ff55.mesh",
+  "body": "body_b1292c2209c3.mesh"
+ }
+}

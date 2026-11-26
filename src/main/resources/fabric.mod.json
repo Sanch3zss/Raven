@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "raven",
+  "version": "${version}",
+  "name": "raven visuals",
+  "description": "хз",
+  "authors": ["Sanch3zss"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "sanch3zss.raven.RavenInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  },
+  "mixins": [
+    "raven.mixins.json",
+    "holdmyitems.mixins.json"
+  ],
+  "accessWidener": "raven.accesswidener"
+}

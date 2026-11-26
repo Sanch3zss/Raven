@@ -1,0 +1,96 @@
+plugins {
+    id "fabric-loom" version "1.17-SNAPSHOT"
+}
+
+version = project.mod_version
+group = project.maven_group
+
+base {
+    archivesName = project.archives_base_name
+}
+loom {
+    accessWidenerPath = file("src/main/resources/raven.accesswidener")
+
+    runs {
+        client {
+            client()
+            runDir "run"
+            vmArg "-Xmx4G"
+            vmArg "-Xms1G"
+        }
+    }
+}
+
+repositories {
+    mavenCentral()
+    maven { url = "https://repo.viaversion.com/" }
+    maven { url = "https://maven.lenni0451.net/everything/" }
+    flatDir { dirs "libs" }
+}
+
+configurations {
+    bundle
+    implementation.extendsFrom bundle
+}
+
+dependencies {
+    minecraft "com.mojang:minecraft:${project.minecraft_version}"
+    implementation "net.fabricmc:fabric-loader:${project.loader_version}"
+    implementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}" 
+    bundle files("libs/luaj-jse-3.0.1.jar")
+    compileOnly files("run/mods/sodium-fabric-0.9.1+mc26.2.jar")
+
+    compileOnly "org.jetbrains:annotations:26.0.2-1"
+
+    bundle "com.google.code.gson:gson:2.10.1"
+    bundle "org.yaml:snakeyaml:2.7"
+    bundle "com.squareup.okhttp3:okhttp:4.12.0"
+    bundle "org.jsoup:jsoup:1.18.3"
+    bundle files("libs/media-player-info-0.1.0.jar")
+    bundle "com.github.hypfvieh:dbus-java-core:5.0.0"
+    bundle("com.github.hypfvieh:dbus-java-transport-jnr-unixsocket:5.0.0") {
+        exclude group: "org.ow2.asm"
+    }
+    bundle files("libs/alphamap-protocol-1.3.0.jar")
+    bundle "org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.6.3"
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(25)
+    }
+    sourceCompatibility = JavaVersion.VERSION_25
+    targetCompatibility = JavaVersion.VERSION_25
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = "UTF-8"
+    options.release = 25
+    options.compilerArgs.add("-Xlint:none")
+    options.compilerArgs.add("-nowarn")
+    options.compilerArgs.add("-Xmaxerrs")
+    options.compilerArgs.add("100000")
+    options.compilerArgs.add("-Xmaxwarns")
+    options.compilerArgs.add("1")
+    options.failOnError = true
+}
+
+tasks.processResources {
+    inputs.property "version", project.version
+    filesMatching("fabric.mod.json") {
+        expand "version": project.version
+    }
+}
+
+jar {
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+    from("LICENSE") {
+        rename { "${it}_${project.archives_base_name}" }
+    }
+    from {
+        configurations.bundle.collect { it.isDirectory() ? it : zipTree(it) }
+    } {
+        exclude "META-INF/*.SF", "META-INF/*.DSA", "META-INF/*.RSA",
+                "module-info.class", "fabric.mod.json"
+    }
+}

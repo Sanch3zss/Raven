@@ -1,0 +1,124 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:directory",
+      "prefix": "",
+      "source": "particle"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "raven:particle/cross",
+      "sprite": "raven:particle/cross"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "raven:particle/crown",
+      "sprite": "raven:particle/crown"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "raven:particle/dollar",
+      "sprite": "raven:particle/dollar"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "raven:particle/heart",
+      "sprite": "raven:particle/heart"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "raven:particle/lighting",
+      "sprite": "raven:particle/lighting"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "raven:particle/line",
+      "sprite": "raven:particle/line"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "raven:particle/point",
+      "sprite": "raven:particle/point"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "raven:particle/rhombus",
+      "sprite": "raven:particle/rhombus"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "raven:particle/snowflake",
+      "sprite": "raven:particle/snowflake"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "raven:particle/star",
+      "sprite": "raven:particle/star"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "raven:particle/triangle",
+      "sprite": "raven:particle/triangle"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "raven:glow",
+      "sprite": "raven:totem_bloom"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "raven:particle_smooth/cross",
+      "sprite": "raven:particle_smooth/cross"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "raven:particle_smooth/crown",
+      "sprite": "raven:particle_smooth/crown"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "raven:particle_smooth/dollar",
+      "sprite": "raven:particle_smooth/dollar"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "raven:particle_smooth/heart",
+      "sprite": "raven:particle_smooth/heart"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "raven:particle_smooth/lighting",
+      "sprite": "raven:particle_smooth/lighting"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "raven:particle_smooth/line",
+      "sprite": "raven:particle_smooth/line"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "raven:particle_smooth/point",
+      "sprite": "raven:particle_smooth/point"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "raven:particle_smooth/rhombus",
+      "sprite": "raven:particle_smooth/rhombus"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "raven:particle_smooth/snowflake",
+      "sprite": "raven:particle_smooth/snowflake"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "raven:particle_smooth/star",
+      "sprite": "raven:particle_smooth/star"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "raven:particle_smooth/triangle",
+      "sprite": "raven:particle_smooth/triangle"
+    }
+  ]
+}
