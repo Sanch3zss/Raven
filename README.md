@@ -4,7 +4,7 @@
 
 # Raven Visuals
 
-**Визуальный клиент для Minecraft 26.2 на Fabric**
+**Визуальный клиент для Minecraft**
 
 Клик гуи в стиле iOS, свой HUD, ножи и агенты из CS2, кастом шрифты и куча мелочей для HolyWorld и FunTime.
 
@@ -35,7 +35,6 @@
   </tr>
 </table>
 
-<!-- сюда ссылку на raven-menu.mp4 из GitHub (user-attachments) -->
 
 Быстрый поиск по всем модулям - <kbd>Ctrl</kbd> + <kbd>F</kbd>.
 
@@ -57,8 +56,6 @@ Watermark, TargetHud, MediaPlayer с текстом песни, GIF, Hotkeys, к
     <td><img src="docs/images/knife-gloves.png" alt="Перчатки"></td>
   </tr>
 </table>
-
-<!-- сюда ссылку на raven-knife.mp4 из GitHub (user-attachments) -->
 
 <img src="docs/images/agent.png" alt="Агент в третьем лице">
 
@@ -96,7 +93,7 @@ ClickGui, Watermark, PotionList, TargetHud, MediaPlayer, Gif, Hotkeys, Coords, I
 
 ## CustomFont
 
-Любой `.ttf` или `.otf` вместо шрифта Minecraft - в чате, табе, меню и над головами. Буквы рисуются под твой масштаб интерфейса, без зернистости.
+Любой `.ttf` или `.otf` вместо шрифта Minecraft - в чате, табе, меню и над головами. Буквы рисуются под твой масштаб интерфейса.
 
 <img src="docs/images/title-screen.png" alt="Свой шрифт в меню Minecraft">
 
